@@ -4,6 +4,8 @@
     
 ******
 
+I am a new developer learning some languages and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 <img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/svg/01-brasil-rounded.svg" height="80">
 
 ### :hammer_and_wrench: Languages and Tools :
