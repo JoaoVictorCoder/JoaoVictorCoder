@@ -4,7 +4,7 @@
     
 ******
 
-## :bust_in_silhouette: About me
+# :bust_in_silhouette: About me
 
 ### I am a new developer learning some languages.
 
