@@ -22,3 +22,5 @@
 
 
   ![Snake](https://raw.githubusercontent.com/JoaoVictorCoder/JoaoVictorCoder/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
