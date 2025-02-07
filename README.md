@@ -21,7 +21,7 @@ height="20"/> - I use Arch Linux as my main OS
 
 ******
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder)](https://github.com/JoaoVictorCoder/JoaoVictorCoder)
   ![Snake](https://raw.githubusercontent.com/JoaoVictorCoder/JoaoVictorCoder/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
