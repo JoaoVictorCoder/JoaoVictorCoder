@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Joao%20Victor%20Coder&section=header&reversal=false&textBg=false&fontColor=gradient&fontAlignY=50
+blob:https://capsule-render.vercel.app/84eb6847-35a7-4874-a9f0-9d71fbe9247e
 
 <!--
 **JoaoVictorCoder/JoaoVictorCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
