@@ -6,10 +6,10 @@
 
 # :bust_in_silhouette: About me
 
-### I am a new developer learning some languages.
+### My name is Joao Victor, i'm 17 years old, i'm from Brazil, and i always loved programming, right now i am studying 
 
 
-### :rocket: Languages and Tools:
+### :rocket: Known Languages and Tools:
 
 ******
 <div>
