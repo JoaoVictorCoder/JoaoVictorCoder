@@ -4,8 +4,7 @@
     
 ******
 
-I am a new developer learning some languages from Brazil <img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/svg/01-brasil-rounded.svg" height="20"> :heart:
-.
+I am a new developer learning some languages from Brazil. <img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/svg/01-brasil-rounded.svg" height="20"> :heart:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
