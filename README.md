@@ -1,4 +1,6 @@
-blob:https://capsule-render.vercel.app/84eb6847-35a7-4874-a9f0-9d71fbe9247e
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!--
 **JoaoVictorCoder/JoaoVictorCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
