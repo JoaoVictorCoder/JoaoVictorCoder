@@ -4,7 +4,7 @@
     
 ******
 
-<span>&#x1f1e7;&#x1f1f7;</span>
+<img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/svg/01-brasil-rounded.svg">
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
