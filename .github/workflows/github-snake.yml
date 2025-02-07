@@ -1,5 +1,7 @@
 # Nome da Actions:  
 name: Snake Game
+permissions: 
+  contents: write
 
 on:
   schedule:
