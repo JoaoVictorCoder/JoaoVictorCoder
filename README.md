@@ -4,7 +4,7 @@
     
 ******
 
-I am a new developer learning some languages from <img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/svg/01-brasil-rounded.svg" height="30">
+I am a new developer learning some languages from <img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/svg/01-brasil-rounded.svg" height="10">
 .
 
 ### :hammer_and_wrench: Languages and Tools :
