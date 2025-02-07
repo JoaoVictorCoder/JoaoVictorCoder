@@ -4,10 +4,14 @@
     
 ******
 
-I am a new developer learning some languages from Brazil. 
-  <img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/svg/01-brasil-rounded.svg" height="30"> :heart:
+## :bust_in_silhouette: About me
 
-### :hammer_and_wrench: Languages and Tools :
+### I am a new developer learning some languages.
+
+
+### :rocket: Languages and Tools:
+
+******
 <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
