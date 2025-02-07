@@ -4,8 +4,10 @@
 
 # :bust_in_silhouette: About me
 
-My name is Joao Victor, i'm 17 years old, i'm from Brazil, and i always loved programming, right now i am studying 
+My name is Joao Victor, i'm 17 years old, i'm from Brazil, and i always loved programming.
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/> - I am studying React
+<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg"/> - I use Arch Linux as my main OS
 
 ### :rocket: Known Languages and Tools:
 
