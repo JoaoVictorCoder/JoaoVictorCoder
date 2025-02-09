@@ -10,9 +10,8 @@ My name is Joao Victor, i'm 17 years old, i'm from Brazil, and i always loved pr
 <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg"
 height="15"/> - I use Arch Linux as my main OS
 
-### :rocket: Known Languages and Tools:
+# :rocket: Known Languages and Tools:
 
-******
 <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
