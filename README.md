@@ -29,9 +29,9 @@ Languages and tool that i can use
 </details>
 
 <details closed>
-<summary><h1>:construction: Skills in Progress</h1></summary>
+<summary><h1>:books: Currently learning</h1></summary>
 <p>
-Some skills im learning
+Some languages im learning
     
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
@@ -62,7 +62,13 @@ Some skills im learning
 
 ![Snake](https://raw.githubusercontent.com/JoaoVictorCoder/JoaoVictorCoder/output/github-contribution-grid-snake-dark.svg)
 
+<h2>:speech_balloon: Quote</h2>
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=random&bgColor=black&borderColor=white)
+
 <h2>:pray: Thanks</h2>
+<p>
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to chat.
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="footer"/>
