@@ -33,6 +33,7 @@ My name is Joao Victor, i'm 17 years old and i'm from Brazil.
     - Learn the most i can possibly learn
     - Become an Senior Dev
     - Work at a big tech company
+    > Or found my own
   </p>
 </details>
 
