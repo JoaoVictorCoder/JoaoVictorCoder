@@ -19,10 +19,10 @@ height="15"/> - I use Arch Linux as my main OS
 </div>
 
 ******
-
+<center>
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&show_icons=true&theme=dark&hide=prs)](https://github.com/JoaoVictorCoder/JoaoVictorCoder)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCoder&layout=compact&theme=dark)
-
+</center>
   ![Snake](https://raw.githubusercontent.com/JoaoVictorCoder/JoaoVictorCoder/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
