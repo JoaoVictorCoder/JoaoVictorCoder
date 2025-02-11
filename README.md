@@ -7,10 +7,10 @@
 <p>
 My name is Joao Victor, i'm 17 years old and i'm from Brazil.
 
-- I like to play some games like Minecraft, Terraria, Factorio, Project Zomboid, Hollow Knight, Garry's Mod, and much more.
-- My favorite programming language is JS
-- My main OS is Linux
-  > Specifically Arch Linux ❤️
+    - I like to play some games like Minecraft, Terraria, Factorio, Project Zomboid, Hollow Knight, Garry's Mod, and much more.
+    - My favorite programming language is JS
+    - My main OS is Linux
+    > Specifically Arch Linux ❤️
 </p>
 </details>
 
@@ -18,9 +18,9 @@ My name is Joao Victor, i'm 17 years old and i'm from Brazil.
 <summary><h1> :rocket: Known Languages and Tools: </h1></summary>
 
 <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 </details>
 
@@ -28,7 +28,8 @@ My name is Joao Victor, i'm 17 years old and i'm from Brazil.
   <summary><h1> :goal_net: Goals </h1></summary>
 
   <p>
-    My goals as a coder
+  My goals as a coder
+    
     - Learn the most i can possibly learn
     - Become an Senior Dev
     - Work at a big tech company
