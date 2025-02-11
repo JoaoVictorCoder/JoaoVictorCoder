@@ -58,6 +58,12 @@ Some languages im learning
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&show_icons=true&theme=dark&hide=prs)](https://github.com/JoaoVictorCoder/JoaoVictorCoder)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCoder&layout=compact&theme=dark)
 
+<h2> :email: Contact </h2>
+<p>
+  
+- Email: [jvrd1515@gmail.com](mailto:jvrd1515@gmail.com)
+</p>
+
 <h2>:snake: THE SNAKE MUST BE FED</h2>
 
 ![Snake](https://raw.githubusercontent.com/JoaoVictorCoder/JoaoVictorCoder/output/github-contribution-grid-snake-dark.svg)
