@@ -24,6 +24,17 @@ My name is Joao Victor, i'm 17 years old and i'm from Brazil.
 </div>
 </details>
 
+<details closed>
+  <summary><h1> :goal_net: Goals </h1></summary>
+
+  <p>
+    My goals as a coder
+    - Learn the most i can possibly learn
+    - Become an Senior Dev
+    - Work at a big tech company
+  </p>
+</details>
+
 ******
 
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&show_icons=true&theme=dark&hide=prs)](https://github.com/JoaoVictorCoder/JoaoVictorCoder)
