@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome%20👋&section=header&reversal=false&textBg=false&fontColor=ffff&fontAlignY=30"/>
     
 ******
-<details open>
+<details closed>
 <summary><h1> :bust_in_silhouette: About me </h1></summary>
 
 My name is Joao Victor, i'm 17 years old, i'm from Brazil, and i always loved programming.
@@ -11,7 +11,7 @@ My name is Joao Victor, i'm 17 years old, i'm from Brazil, and i always loved pr
 height="15"/> - I use Arch Linux as my main OS
 </details>
 
-<details open>
+<details closed>
 <summary><h1> :rocket: Known Languages and Tools: </h1></summary>
 
 <div>
