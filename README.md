@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome%20👋&section=header&reversal=false&textBg=false&fontColor=ffff&fontAlignY=30"/>
-    
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome%20👋&section=header&reversal=false&textBg=false&fontColor=ffff&fontAlignY=30" alt="header"/>
+
 ******
 <details closed>
 <summary><h1> :bust_in_silhouette: About me </h1></summary>
 
-My name is Joao Victor, i'm 17 years old, i'm from Brazil, and i always loved programming.
+<p>My name is Joao Victor, i'm 17 years old, i'm from Brazil, and i always loved programming.</p>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="15"/> - I am studying React  
 <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg"
@@ -28,4 +28,4 @@ height="15"/> - I use Arch Linux as my main OS
 
   ![Snake](https://raw.githubusercontent.com/JoaoVictorCoder/JoaoVictorCoder/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="footer"/>
