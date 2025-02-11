@@ -37,11 +37,11 @@ My name is Joao Victor, i'm 17 years old and i'm from Brazil.
 </details>
 
 ******
-<h2>My stats</h2>
+<h2>:bar_chart: My stats</h2>
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&show_icons=true&theme=dark&hide=prs)](https://github.com/JoaoVictorCoder/JoaoVictorCoder)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCoder&layout=compact&theme=dark)
 
-<h2>THE SNAKE MUST BE FED 🐍</h2>
+<h2>:snake: THE SNAKE MUST BE FED</h2>
 
   ![Snake](https://raw.githubusercontent.com/JoaoVictorCoder/JoaoVictorCoder/output/github-contribution-grid-snake-dark.svg)
 
