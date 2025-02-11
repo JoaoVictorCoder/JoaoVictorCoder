@@ -47,7 +47,7 @@ Some skills im learning
 - Learn the most i can possibly learn
 - Become an Senior Dev
 - Work at a big tech company
-> Or found my own
+  > Or found my own
   </p>
 </details>
 
