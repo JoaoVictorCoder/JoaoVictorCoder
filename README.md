@@ -57,7 +57,8 @@ Some languages im learning
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&show_icons=true&theme=dark&hide=prs)](https://github.com/JoaoVictorCoder/JoaoVictorCoder)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCoder&layout=compact&theme=dark)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 <h2> :email: Contact </h2>
 <p>
   
