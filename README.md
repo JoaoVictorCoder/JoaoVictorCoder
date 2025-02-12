@@ -55,7 +55,7 @@ Some languages im learning
 
 <h2>:bar_chart: My stats</h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&show_icons=true&theme=dark&hide=prs)](https://github.com/JoaoVictorCoder/JoaoVictorCoder)
+![JoaoVictorCoder's Stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCoder&layout=compact&theme=dark)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=bmiCalculator&theme=dark)](https://github.com/JoaoVictorCoder/bmiCalculator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=minecraftFanWebsite&theme=dark)](https://github.com/joaoVictorCoder/minecraftFanWebsite)
