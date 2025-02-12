@@ -59,11 +59,6 @@ Some languages im learning
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCoder&layout=compact&theme=dark)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=bmiCalculator&theme=dark)](https://github.com/JoaoVictorCoder/bmiCalculator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=minecraftFanWebsite&theme=dark)](https://github.com/joaoVictorCoder/minecraftFanWebsite)
-<h2> :email: Contact </h2>
-<p>
-  
-- Email: [jvrd1515@gmail.com](mailto:jvrd1515@gmail.com)
-</p>
 
 <h2>:snake: THE SNAKE MUST BE FED</h2>
 
@@ -72,6 +67,13 @@ Some languages im learning
 <h2>:speech_balloon: Quote</h2>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quoteType=random&bgColor=black&borderColor=white)
+
+<h2> :email: Contact </h2>
+<p>
+  
+- Email: [jvrd1515@gmail.com](mailto:jvrd1515@gmail.com)
+</p>
+
 
 <h2>:pray: Thanks</h2>
 <p>
