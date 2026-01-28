@@ -60,6 +60,9 @@ Languages and tool that i can use
   <a href="https://github.com/JoaoVictorCoder/Password-Generator">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=Password-Generator&theme=dark" />
   </a>
+    <a href="https://github.com/JoaoVictorCoder/Simple-Calculator">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=Simple-Calculator&theme=dark" />
+  </a>
 </p>
 
 <h2>:snake: THE SNAKE MUST BE FED</h2>
