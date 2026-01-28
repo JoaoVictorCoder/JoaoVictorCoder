@@ -54,13 +54,14 @@ Languages and tool that i can use
 
 <h2>:open_file_folder: Best Repositories</h2>
 <p align="center">
-  <a href="https://github.com/JoaoVictorCoder/bmiCalculator">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=bmiCalculator&theme=dark" />
+  <a href="https://github.com/JoaoVictorCoder/ColorGen">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=ColorGen&theme=dark" />
   </a>
-  <a href="https://github.com/JoaoVictorCoder/minecraftFanWebsite">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=minecraftFanWebsite&theme=dark" />
+  <a href="https://github.com/JoaoVictorCoder/Password-Generator">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=Password-Generator&theme=dark" />
   </a>
 </p>
+
 <h2>:snake: THE SNAKE MUST BE FED</h2>
 
 ![Snake](https://raw.githubusercontent.com/JoaoVictorCoder/JoaoVictorCoder/output/github-contribution-grid-snake-dark.svg)
@@ -78,8 +79,7 @@ Languages and tool that i can use
 
 <h2>:pray: Thanks</h2>
 <p>
-Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to chat.
-If you liked my read-me remember to Star and check my other repositories!
+Thanks for visiting my profile! If you liked my read-me, remember to Star and check my other repositories!
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="footer"/>
