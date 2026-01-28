@@ -29,16 +29,6 @@ Languages and tool that i can use
 </details>
 
 <details closed>
-<summary><h1>:books: Currently learning</h1></summary>
-<p>
-Some languages im learning
-    
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30"/>
-</p>
-</details>
-<details closed>
   <summary><h1> :dart: Goals </h1></summary>
 
   <p>
@@ -55,11 +45,22 @@ Some languages im learning
 
 <h2>:bar_chart: My stats</h2>
 
-![JoaoVictorCoder's Stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCoder&layout=compact&theme=dark)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=bmiCalculator&theme=dark)](https://github.com/JoaoVictorCoder/bmiCalculator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=minecraftFanWebsite&theme=dark)](https://github.com/joaoVictorCoder/minecraftFanWebsite)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCoder&layout=compact&theme=dark" />
+</div>
 
+<h2>:open_file_folder: Best Repositories</h2>
+<p align="center">
+  <a href="https://github.com/JoaoVictorCoder/bmiCalculator">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=bmiCalculator&theme=dark" />
+  </a>
+  <a href="https://github.com/JoaoVictorCoder/minecraftFanWebsite">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictorcoder&repo=minecraftFanWebsite&theme=dark" />
+  </a>
+</p>
 <h2>:snake: THE SNAKE MUST BE FED</h2>
 
 ![Snake](https://raw.githubusercontent.com/JoaoVictorCoder/JoaoVictorCoder/output/github-contribution-grid-snake-dark.svg)
@@ -78,6 +79,7 @@ Some languages im learning
 <h2>:pray: Thanks</h2>
 <p>
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to chat.
+If you liked my read-me remember to Star and check my other repositories!
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="footer"/>
