@@ -6,14 +6,15 @@
 <summary><h1> :bust_in_silhouette: About me </h1></summary>
 
 <p>
-My name is Joao Victor, i'm 17 years old and i'm from Brazil.
+My name is Joao Victor, i'm 18 years old and i'm from Brazil.
 
+- 🎓 Currently studying **Systems Analysis and Development (ADS)** at **FATEC**.
 - I like to play some games like Minecraft, Terraria, Factorio, Project Zomboid, Hollow Knight, Garry's Mod, and much more.
 - My favorite programming language is JS
 - My main OS is Linux
   > Specifically Arch Linux ❤️
   </p>
-  </details>
+</details>
 
 <details closed>
 <summary><h1> :rocket: Known languages and tools: </h1></summary>
