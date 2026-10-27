@@ -59,7 +59,7 @@
 <h2 align="center">📂 Featured projects</h2>
 
 <p align="center">
-  <a href="https://github.com/JoaoVictorCoder/ColorGen">
+  <a href="https://github.com/JoaoVictorCoder/AccessStack">
     <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCoder&repo=AccessStack&theme=tokyonight&hide_border=true" alt="ColorGen"/>
   </a>
   <a href="https://github.com/JoaoVictorCoder/Password-Generator">
