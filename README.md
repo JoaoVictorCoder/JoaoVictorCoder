@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/JoaoVictorCoder/ColorGen">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCoder&repo=AcessStack&theme=tokyonight&hide_border=true" alt="ColorGen"/>
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCoder&repo=AccessStack&theme=tokyonight&hide_border=true" alt="ColorGen"/>
   </a>
   <a href="https://github.com/JoaoVictorCoder/Password-Generator">
     <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCoder&repo=Password-Generator&theme=tokyonight&hide_border=true" alt="Password Generator"/>
