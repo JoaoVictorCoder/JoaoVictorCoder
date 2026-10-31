@@ -65,8 +65,8 @@
   <a href="https://github.com/JoaoVictorCoder/Password-Generator">
     <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCoder&repo=Password-Generator&theme=tokyonight&hide_border=true" alt="Password Generator"/>
   </a>
-  <a href="https://github.com/JoaoVictorCoder/Horizon-Server-Plugins">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCoder&repo=Horizon-Server-Plugins&theme=tokyonight&hide_border=true" alt="Simple Calculator"/>
+  <a href="https://github.com/JoaoVictorCoder/horizon-server-plugins">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCoder&repo=horizon-server-plugins&theme=tokyonight&hide_border=true" alt="Horizon Server Plugins"/>
   </a>
 </p>
 
