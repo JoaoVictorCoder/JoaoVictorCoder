@@ -50,7 +50,6 @@
 <h2 align="center">📊 GitHub stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCoder&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=JoaoVictorCoder&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
